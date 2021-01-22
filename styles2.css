@@ -1,0 +1,38 @@
+
+/**
+ * Let's make a few changes in the text design.
+ */
+
+.md {
+  font-family: "Helvetica Neue", Helvetica, sans-serif;
+}
+
+.md h1, .md h2, .md h3, .md h4, .md h5, .md h6 {
+  display: inline-block;
+  color: #ddd;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 5px;
+}
+
+.md li {
+  margin: 5px 0;
+}
+
+.md h1, .md h2, .md h3, .md h4, .md h5, .md h6, .md ul, .md p {
+  margin: 0px;
+}
+
+/**
+ * That's better.
+ *
+ * I hope you like it. 
+ *
+ * I tried my best with animation right now. Whatever knowledge I posses.
+ *
+ * Well, there are coders better than me,
+ * have more knowledge in animation the web develop
+ * but I think, not today, but tomorrow, sometime
+ * I will be their center of focus.
+ *
+ * You know, if you're into that sort of thing.
+ */

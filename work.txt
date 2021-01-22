@@ -1,0 +1,87 @@
+NineTails
+=========
+
+Nitish Kumar
+Freelancer, Independent Developer
+Frontend / Games / Artificial Intelligence
+
+Contact
+-------
+
+* Nitish at NineTails (coming soon)
+* 57pi73@gmail.com
+* https://www.linkedin.com/in/nitish-kumar-a43590a2/
+* https://github.com/ghost-87
+* +91 9518908757 
+
+Projects
+--------
+
+* WeBook
+* Jesse & Sons
+* ParkingPerxs
+* Scala Web PlayFramework
+  https://github.com/playframework/playframework
+* Saraswati 
+  Still in development ( First project of NineTails )
+* TradeWizard
+* GetWidget 
+  https://play.google.com/store/apps/details?id=dev.getflutter.appkit
+* PieTechBot
+* Readymade Grocery App 
+  https://play.google.com/store/apps/details?id=com.ionicfirebaseapp.readymadegroceryuserapp
+* Readymade Grocery Delivery App 
+  https://play.google.com/store/apps/details?id=com.ionicfirebaseapp.grocerydelivery
+* Grocery Saas
+  https://play.google.com/store/apps/details?id=com.ionicfirebaseapp.grocerysass
+* E-commerce App
+  https://play.google.com/store/apps/details?id=com.ionicfirebaseapp.ecommerce
+* Restaurant sass
+  https://play.google.com/store/apps/details?id=com.ionicfirebaseapp.restaurantsass
+* Readymade Restaurant App
+  https://play.google.com/store/apps/details?id=com.ionicfirebaseapp.restaurantflutter
+* Social App
+  https://play.google.com/store/apps/details?id=com.ionicfirebaseapp.socialapp
+* Arise Bharat
+* EzFi
+* ImplementationofE-LearningSystemBasedOnFullstackConcept 
+* Analytic Android Application
+
+Stacks that love me
+--------------------
+
+* JavaScript
+* TypeScript
+* Dart
+* Python
+* C / C++
+* Go
+* Ruby On Rails
+* HTML / CSS
+* Scala
+* MongoDB
+
+FrameWorks
+-----------
+* Flutter
+* ReactJs
+* VueJS
+* NuxtJs
+* TensorFlow
+* ThreeJs
+* Spark
+* Magento
+
+Others 
+-------
+* AWS
+* GIT
+* Docker
+* Office
+* Figma
+
+Photos
+------
+
+* [Why so serious, ](/img/n1.jpg)
+  * [yet no smile](/img/n2.jpg)
